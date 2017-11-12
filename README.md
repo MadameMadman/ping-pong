@@ -1,6 +1,6 @@
 # _PINGPONG!_
 
-[CLICK HERE TO PLAY IN BROWSER](https://madamemadman.github.io/PING-PONG/)
+[CLICK HERE TO PLAY IN BROWSER](https://madamemadman.github.io/ping-pong/)
 
 #### _Arrays & Looping Code Review for Epicodus_
 
