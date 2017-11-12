@@ -7,9 +7,32 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="js/jquery-3.2.1.js"></script>
     <script src="js/scripts.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
   </head>
   <body>
-
+    <audio autoplay="autoplay">
+    <source src="..sfx/DONGERO1.mp3" />
+    </audio>
+    <div class="container">
+          <form>
+            <div class ="jumbotron">
+              My name is PINGPONG. I am a RABID ALBINO MOOSE who's looking to eat some numbers! The only problem is, I'm an extremely picky eater when it comes to those delicious numericals. I'll make it easy on ya!
+              <br>
+              <ol>
+              <li>Numbers divisible by 3 are tasty! I give these delicious data items a "PING" when I eat them!</li>
+              <li>Nubers divisible by 5 are solidly scrumptious! I give these sorts of numbers a "PONG" when I nibble them down!</li>
+              <li>Numbers divisible by 15 are down right delectable! I'll shout out my name "PINGPONG" upon getting one of these numbers fed to me.</li>
+              </ol>
+            </div>
+            <div class="form-group">
+            <label for="numberInput">ENTER YOUR NUMBERS FOR ME TO EAT HERE</label>
+            <input type="number" class="form-control" size="30"  id="numberInput" required="required">
+            </div>
+            <button type="submit" class="btn btn-lg btn-danger">FEED ME!</button>
+          </form>
+          <div>
+            <ul id="result"></ul>
+          </div>
+        </div>
   </body>
 </html>
