@@ -22,10 +22,10 @@ _nico.daunt@gmail.com_
 
 ## Technologies Used
 
-*html
-*css
-*jquery 3.2.1
-*bootstrap 3.3.7
+*_html_
+*_css_
+*_jquery 3.2.1_
+*_bootstrap 3.3.7_
 
 ### License
 

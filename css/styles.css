@@ -1,0 +1,38 @@
+body {
+  font-family: 'Concert One', cursive;
+  font-size: 2em;
+  background: url(../img/background.gif) no-repeat center center fixed;
+  origin background-size: cover;
+  background-size: cover;
+}
+
+#result {
+  display: none;
+  background-color: #FF69B4;
+  margin-top: 2em;
+  border-radius: 42px 42px 42px 42px;
+  -moz-border-radius: 42px 42px 42px 42px;
+  -webkit-border-radius: 42px 42px 42px 42px;
+  padding: 2em;
+}
+
+.jumbotron {
+  background-color: #FF69B4;
+  margin-top: 2em;
+  border-radius: 42px 42px 42px 42px;
+  -moz-border-radius: 42px 42px 42px 42px;
+  -webkit-border-radius: 42px 42px 42px 42px;
+  padding: 2em;
+  color: white;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+
+}
+
+label {
+  background-color: #00FF66;
+  padding: .5em;
+  border-radius: 42px 42px 42px 42px;
+  -moz-border-radius: 42px 42px 42px 42px;
+  -webkit-border-radius: 42px 42px 42px 42px;
+
+}
